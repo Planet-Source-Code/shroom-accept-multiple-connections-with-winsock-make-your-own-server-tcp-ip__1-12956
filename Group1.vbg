@@ -1,0 +1,3 @@
+VBGROUP 5.0
+StartupProject=Server\Project1.vbp
+Project=Client\Project2.vbp
